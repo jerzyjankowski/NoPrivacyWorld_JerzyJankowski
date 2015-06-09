@@ -1,0 +1,6 @@
+sp.simulation
+sp.simulation.agent
+sp.simulation.game
+sp.simulation.game.creation
+sp.simulation.game.decision
+sp.simulation.tools
